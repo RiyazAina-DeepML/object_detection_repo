@@ -1,0 +1,26 @@
+<annotation>
+	<folder>large_disease_datasets_24aug2019</folder>
+	<filename>marker_841_Og.jpg</filename>
+	<path>/media/occipital/D4EC976FEC974A9E/MRCNN_copy/dataset/316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>agx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>2158</ymin>
+			<xmax>640</xmax>
+			<ymax>1612</ymax>
+		</bndbox>
+	</object>
+</annotation>
